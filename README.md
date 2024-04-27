@@ -11,7 +11,7 @@ Microbialite Project for Database Design created for Dr. Hickson of the geology 
 
 ### 3. 3D Projections
 https://github.com/mmoeller15/cg-3dprojections \
-   3D wireframes with clipping 
+Using HTML's Canvas 2D API, implements 3D line drawing by projecting models onto the view-plane.  
    
 ### 4. Fragment Shaders
 https://github.com/mmoeller15/cg-fragmentshaders \
