@@ -10,9 +10,9 @@ https://github.com/CWCarlin/Microbialite-Website \
 Microbialite Project for Database Design created for Dr. Hickson of the geology department 
 
 ### 3. 3D Projections
-https://github.com/mmoeller15/cg-3dprojections 
-   3D wireframes with clipping \
+https://github.com/mmoeller15/cg-3dprojections \
+   3D wireframes with clipping 
    
 ### 4. Fragment Shaders
-https://github.com/mmoeller15/cg-fragmentshaders 
+https://github.com/mmoeller15/cg-fragmentshaders \
 Fragment shaders for Graphics
